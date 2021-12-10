@@ -546,6 +546,24 @@
         "website": "https://rockdefi.app/"
       }
     },
+{
+      "chainId": 101,
+      "address": "oQZEDpPz7bpxqRWC3L2TteWXDCRMbKTfokqtJfZGVZY
+",
+      "symbol": "CELBEST",
+      "name": "CELBEST TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/oQZEDpPz7bpxqRWC3L2TteWXDCRMbKTfokqtJfZGVZY
+/logo.png",
+      "tags": [
+        "stablecoin",
+        "asset"
+      ],
+      "extensions": {
+        "website": "https://www.linkedin.com/in/celestin-ntemngwa//"
+      }
+    },
+
     {
       "chainId": 101,
       "address": "FeGm2DB4EWHm2LS8ABnRatzARDRYFyUPkLsSJkJwBuSu",
